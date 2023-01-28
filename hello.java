@@ -1,3 +1,0 @@
-ok go ahed
-
-wr
