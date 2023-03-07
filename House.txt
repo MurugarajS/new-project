@@ -1,0 +1,12 @@
+public static class House{
+static String street_name = "vijayanagar";
+house owner name = "gayathiri";
+
+public static void main(String[]args)
+{
+System.out.println(Home.street_name)
+
+
+}
+}
+

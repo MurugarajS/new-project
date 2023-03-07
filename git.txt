@@ -1,0 +1,18 @@
+      //Version control, also known as source control, is the practice of tracking and managing changes to software code. Version control systems are software tools that help software teams manage changes to source code over time.
+
+Version control software keeps track of every modification to the code in a special kind of database. If a mistake is made, developers can turn back the clock and compare earlier versions of the code to help fix the mistake while minimizing disruption to all team members.
+
+introduce of git is also making linux as developer name is TORVALDS
+
+version control system is a term 
+
+the provider of version control system is GIT, another provider is MERCURIAL,
+
+SPECIALLY GIT
+        1)GIT IS A DISTIBUTED VERSION CONTROL SYSTEM
+			
+        2) github -project Link -- folder --->Remote Repository
+		
+		3) laptop - folder (project)-coding       ------>  Remote Repository
+		
+		4) fork is a term is used for copy code in your account.
